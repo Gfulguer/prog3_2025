@@ -1,3 +1,4 @@
 class Power:
     valor=100
-    estado='activo'
+    estado='inactivo'
+    #agrego un comentario 
